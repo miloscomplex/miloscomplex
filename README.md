@@ -1,4 +1,4 @@
-# :small_orange_diamond:	Hello my name is Michael Sutton :small_orange_diamond:	
+# 👉 Hello my name is Michael Sutton
 
 ## 👋  Hi, I’m @miloscomplex Full-Stack Software Engineer | Visual Marketing | Advertising | Web Design | React, Redux, JavaScript, Ruby on Rails, Java, HTML, and CSS
 
