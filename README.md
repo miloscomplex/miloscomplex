@@ -1,6 +1,6 @@
 # 👉 Hello my name is Michael Sutton
 
-## 👋  Hi, I’m @miloscomplex Full-Stack Software Engineer | Visual Marketing | Advertising | Web Design | React, Redux, JavaScript, Ruby on Rails, Java, HTML, and CSS
+## 👋  Hi, I’m @miloscomplex Full-Stack Software Engineer | Visual Marketing | Web Design | React, Redux, JavaScript, Ruby on Rails, Java, HTML, and CSS
 
 - 👀  I’m interested in UI, data-visualization, web design 
 
