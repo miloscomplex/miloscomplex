@@ -4,7 +4,7 @@
 
 - 👀  I’m interested in UI, data-visualization, web design 
 
-- 🌱  I’m currently learning Node.js
+- 🌱  I’m currently learning Python
 
 - 💞️  I’m looking to collaborate on all things web & visual generation 
 
