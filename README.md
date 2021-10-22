@@ -1,16 +1,14 @@
 # 👉 Hello my name is Michael Sutton
 
-## 👋  Hi, I’m @miloscomplex Full-Stack Software Engineer | Visual Marketing | Web Design | React, Redux, JavaScript, Ruby on Rails, Java, HTML, and CSS
+## 👋  Hi, I’m @miloscomplex Full-Stack Software Engineer | React, Redux, JavaScript, Ruby on Rails, Java, HTML, and CSS
 
-- 👀  I’m interested in UI, data-visualization, web design 
+- 👀  I’m interested in UI, data-visualization, web design, React
 
-- 🌱  I’m currently learning Python
-
-- 💞️  I’m looking to collaborate on all things web & visual generation 
+- 🌱  I’m currently learning Pytho
 
 - 📫  How to reach me hicallmesutton@gmail.com
 
-- :construction: https://github.com/miloscomplex/draword
+- :construction: https://github.com/miloscomplex/feed-the-need-react
 
 <!---
 miloscomplex/miloscomplex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
