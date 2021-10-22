@@ -1,6 +1,6 @@
 ![Imgur](https://i.imgur.com/vHGHo6F.jpg)
 
-### 👉 Hello, my name is Michael Sutton. 
+# 👉 Hello, my name is Michael Sutton. 
 Merging the art and science of web design to generate dynamic enticing visual solutions by utilizing code and comprehensive knowledge of visual communication and design. Experienced in Ruby on Rails, JavaScript, React/Redux, HTML, and CSS programming, and robust visual design/communication background with a deeply rooted understanding of visual design.
 
 ## 👋  Hi, I’m @miloscomplex Full-Stack Software Engineer | React, Redux, JavaScript, Ruby on Rails, Java, HTML, and CSS
