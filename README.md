@@ -7,7 +7,7 @@ Merging the art and science of web design to generate dynamic enticing visual so
 
 - 👀  I’m interested in UI, data-visualization, web design, React
 
-- 🌱  I’m currently learning Python & Refining my JavaScript skills
+- 🌱  I’m currently learning p5.js
 
 - 📫  How to reach me hicallmesutton@gmail.com
 
