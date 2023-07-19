@@ -3,7 +3,7 @@
 # 👉 Hello, my name is Michael Sutton. 
 I like to make websites. Generate dynamic, enticing visual solutions by utilizing code and comprehensive visual communication and design knowledge. Experienced in Ruby on Rails, JavaScript, React/Redux, HTML, and CSS programming, and robust visual design/communication background with a deeply rooted understanding of visual design.
 
-## 👋 Full-Stack Software Engineer | React, Redux, JavaScript, HTML, and CSS
+## 👋 Full-Stack Software Engineer | React, Redux, JavaScript, Node.js, HTML, CSS.
 
 - 👀  I’m interested in UI, data-visualization, web design, React
 
